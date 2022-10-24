@@ -11,6 +11,9 @@
 <li>JetPack Compose nativo de android</li>
 </ol>
 <br>
+<div class="text-center">
+<img class="img-fluid text-center" src="https://codingwithmitch.s3.amazonaws.com/static/blog/8/mvvm_architecture.png"/>
+</div>
 <br>
 <br>
 <h1>API REST con NODEJS y Express</h1><br>
@@ -25,7 +28,5 @@
 <li>Uso de (JWT) Json Wen Tokens</li>
 </ol>
 <br>
-<div class="text-center">
-<img class="img-fluid text-center" src="https://codingwithmitch.s3.amazonaws.com/static/blog/8/mvvm_architecture.png"/>
-</div>
+
 <br><br>
